@@ -3,7 +3,7 @@ Generated insights and created visualizations from recidivism data using Pandas,
 
 
 **Context**
-The data on re-offending in a 3 year time period after an initial release from prison, among offenders serving a prison term in the State of Iowa,
+The data on re-offending in a 3-year time period after an initial release from prison, among offenders serving a prison term in the State of Iowa,
 US between 2010 and 2015, with recidivism follow-up between 2013 and 2018.
 
 **Content**
